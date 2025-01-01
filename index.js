@@ -36,10 +36,10 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["dicord.gg/ValoVault"];
+const statusMessages = ["energy"];
 
 
-let currentIndex = 0;
+let currentIndex = 1;
 const channelId = '';
 
 async function login() {
